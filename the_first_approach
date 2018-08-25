@@ -1,0 +1,13 @@
+tweet_string = "Thanks to the historic TAX CUTS that I signed into law, your paychecks are going way UP, " \
+               "your taxes are going way DOWN, and America is once again OPEN FOR BUSINESS!"
+tweet_words = tweet_string.split()
+number_of_words = len(tweet_words)
+print(tweet_words)
+print("This tweet has " + str(number_of_words) + " words.")
+
+# Iterate through the words in tweet_string and print out how many letters are in each word
+print("The words in this tweet are: ")
+for word in tweet_words:
+    length_of_word = len(word)
+    print("'" + word + "' has " + str(length_of_word) + " letters.")
+print("End of the words in this tweet.")
