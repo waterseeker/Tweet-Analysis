@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7d97e363-f40f-489e-9179-c2cf8b86b2dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/using_key_value_pairs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +14,13 @@
     <session id="-1721722947">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.10" value="1" />
-          <entry key="project.open.time.11" value="1" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,7 +54,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic_sentiment_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
+            <state relative-caret-position="480">
               <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
             </state>
           </provider>
@@ -63,11 +63,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/using_key_value_pairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+            <state relative-caret-position="415">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <marker date="1535223834000" expanded="true" signature="597:602" ph="..." />
-                <marker date="1535223834000" expanded="true" signature="867:1681" ph="..." />
               </folding>
             </state>
           </provider>
@@ -135,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.basic_sentiment_analysis">
+  <component name="RunManager" selected="Python.using_key_value_pairs">
     <configuration name="basic_sentiment_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TweetAnalysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,12 +177,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="using_key_value_pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TweetAnalysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/using_key_value_pairs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.the_first_approach" />
       <item itemvalue="Python.basic_sentiment_analysis" />
+      <item itemvalue="Python.using_key_value_pairs" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.using_key_value_pairs" />
         <item itemvalue="Python.basic_sentiment_analysis" />
         <item itemvalue="Python.the_first_approach" />
       </list>
@@ -204,14 +226,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="977" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2543444" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25697735" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Python Console" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3762712" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3762712" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
@@ -245,18 +266,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_sentiment_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
+        <state relative-caret-position="480">
           <caret line="32" column="46" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/using_key_value_pairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        <state relative-caret-position="415">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <marker date="1535223834000" expanded="true" signature="597:602" ph="..." />
-            <marker date="1535223834000" expanded="true" signature="867:1681" ph="..." />
           </folding>
         </state>
       </provider>
